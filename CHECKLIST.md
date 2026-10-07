@@ -21,6 +21,12 @@
 - [x] Checked for contact information and services offered
 
 ## Next Steps
+- [x] Home page
+- [ ] About page
+- [ ] Services pages
+- [ ] Contact page
+- [ ] Privacy policy
+- [ ] Terms of service
 - [ ] Determine form submission handling requirements
 - [ ] Plan integration with Google Spreadsheet or MongoDB
 - [ ] Design form processing workflow
